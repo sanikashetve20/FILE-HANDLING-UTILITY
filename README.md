@@ -29,3 +29,6 @@ Programming Language: Java
 Libraries Used: java.io.* (For file handling operations)
 Development Environment: Eclipse or IntelliJ IDEA
 Platform Compatibility: Windows OS**
+
+OUTPUT-
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/ef6e2a3c-5675-448c-8c52-1223c79d650f" />
