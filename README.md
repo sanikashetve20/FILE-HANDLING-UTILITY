@@ -22,9 +22,9 @@ Modify an existing file (Allows content updates).
 Delete a file (Removes unwanted files).
 List all text files in the D:\ drive (Displays available files).
 Error Handling (Handles missing files, invalid inputs, and exceptions).
-Loop Execution (Allows continuous user interaction until they exit).**
+Loop Execution (Allows continuous user interaction until they exit).
 
-**TECHNOLOGY USED: 
+TECHNOLOGY USED: 
 Programming Language: Java
 Libraries Used: java.io.* (For file handling operations)
 Development Environment: Eclipse or IntelliJ IDEA
